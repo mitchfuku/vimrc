@@ -1,3 +1,15 @@
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
+set expandtab
+
+set encoding=utf-8
+set scrolloff=3
+set autoindent
+set showmode
+set showcmd
+set hidden
+set wildmenu
 set wildmode=list:longest
 set visualbell
 set ttyfast
