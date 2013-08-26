@@ -1,5 +1,4 @@
 set nocompatible
-call pathogen#infect()
 
 set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
